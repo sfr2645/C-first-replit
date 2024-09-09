@@ -1,4 +1,4 @@
-// Calculating Percentages
+// Calculating Percentages and stuff
 //
 #include <iostream>
 using namespace std;
