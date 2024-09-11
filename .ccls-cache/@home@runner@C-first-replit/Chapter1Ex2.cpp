@@ -1,4 +1,4 @@
-// Calculating Percentages
+// Calculating Percentages from canvas
 //
 #include <iostream>
 using namespace std;
