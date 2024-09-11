@@ -1,4 +1,4 @@
-// Percentage Discount
+// Percentage Discount from canvas
 //
 #include <iostream>
 using namespace std;
